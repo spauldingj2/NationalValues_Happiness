@@ -112,7 +112,7 @@ Google Gemini was used as a co-intelligence resource when developing this projec
 - [Project Plan](SpauldingProjectPlan.docx)
 - [Happiness Project Analysis](happiness_project.ipynb)
 - [Data Dictionary](HappinessProject_DataDictionary.docx)
-- [World VAlues Survey Codebook](WVS7_Codebook.pdf)
+- [World Values Survey Codebook](WVS7_Codebook.pdf)
 
 
 ---
