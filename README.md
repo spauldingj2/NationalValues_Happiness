@@ -23,7 +23,7 @@ This project will look at the potential correlation between national values as a
 
 ## Technologies Used
 
-- **Python** (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Statsmodel)
+- **Python** (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Statsmodels)
 - **SQLite** (for local database)
 - **Jupyter Notebook** 
 - **GitHub** (for version control)
@@ -45,7 +45,7 @@ cd [your_project_folder]
 ### 2️⃣ Create Virtual Environment & Install Dependencies
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 # Windows
 venv\Scripts\activate
 # Mac/Linux
@@ -59,6 +59,7 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+To access the server: copy and paste one of the provided URLs, or ctrl + click the link.
 
 Open happiness_project.ipynb and execute cells in order.
 
