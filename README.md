@@ -42,11 +42,15 @@ After you have cloned the repository to your machine, navigate to the project fo
 cd [your_project_folder]
 ```
 
-### 2️⃣ Install Dependencies
-
-
+### 2️⃣ Create Virtual Environment & Install Dependencies
 
 ```bash
+python3 -m venv venv
+# Windows
+venv\Scripts\activate
+# Mac/Linux
+source venv/bin/activate   
+
 pip install -r requirements.txt
 ```
 
@@ -71,12 +75,12 @@ deactivate
 
 ### 5️⃣ Summary of Virtual Environment Commands
 
-| Command | Linux/Mac | GitBash |
-| ------- | --------- | ------- |
-| Create | `python3 -m venv venv` | `python -m venv venv` |
-| Activate | `source venv/bin/activate` | `source venv/Scripts/activate` |
-| Install | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
-| Deactivate | `deactivate` | `deactivate` |
+| Command    | Linux/Mac                         | GitBash                           |
+| -------    | ---------                         | -------                           |
+| Create     | `python3 -m venv venv`            | `python -m venv venv`             |
+| Activate   | `source venv/bin/activate`        | `source venv/Scripts/activate`    |
+| Install    | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
+| Deactivate | `deactivate`                      | `deactivate`                      |
 
 ---
 
@@ -107,3 +111,19 @@ Google Gemini was used as a co-intelligence resource when developing this projec
 - [Project Plan](SpauldingProjectPlan.docx)
 - [Happiness Project Analysis](happiness_project.ipynb)
 - [Data Dictionary](HappinessProject_DataDictionary.docx)
+
+---
+
+## References & Resources
+
+Cornell University. (2024).  Python for Data Science e-course. Class Notes
+Kreibich, J. (2010). Using SQLite, First Edition.
+Landup, D. (2021). Data Visualization in Python, First Edition.
+Navlani, A., Fandango, A., and Idris, I. (2021).  Python Data Analysis, Third Edition.
+Shields, W. (2020). SQL Quick Start Guide. 
+Tabachnick, B. and Fidell, L. (2007). Using Multivariate Statistics, Fifth Edition. 
+World Happiness Report. https://worldhappiness.report/
+World Values Survey. https://www.worldvaluessurvey.org/
+
+
+
