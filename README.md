@@ -1,6 +1,7 @@
 # National Values and Happiness
 
 **Author**: Jeanne Spaulding
+
 **Project Repository**: https://github.com/spauldingj2/NationalValues_Happiness
 
 ## Project Overview
