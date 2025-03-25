@@ -112,19 +112,21 @@ Google Gemini was used as a co-intelligence resource when developing this projec
 - [Project Plan](SpauldingProjectPlan.docx)
 - [Happiness Project Analysis](happiness_project.ipynb)
 - [Data Dictionary](HappinessProject_DataDictionary.docx)
+- [World VAlues Survey Codebook](WVS7_Codebook.pdf)
+
 
 ---
 
 ## References & Resources
 
-Cornell University. (2024).  Python for Data Science e-course. Class Notes
-Kreibich, J. (2010). Using SQLite, First Edition.
-Landup, D. (2021). Data Visualization in Python, First Edition.
-Navlani, A., Fandango, A., and Idris, I. (2021).  Python Data Analysis, Third Edition.
-Shields, W. (2020). SQL Quick Start Guide. 
-Tabachnick, B. and Fidell, L. (2007). Using Multivariate Statistics, Fifth Edition. 
-World Happiness Report. https://worldhappiness.report/
-World Values Survey. https://www.worldvaluessurvey.org/
+- Cornell University. (2024).  Python for Data Science e-course. Class Notes
+- Kreibich, J. (2010). Using SQLite, First Edition.
+- Landup, D. (2021). Data Visualization in Python, First Edition.
+- Navlani, A., Fandango, A., and Idris, I. (2021).  Python Data Analysis, Third Edition.
+- Shields, W. (2020). SQL Quick Start Guide. 
+- Tabachnick, B. and Fidell, L. (2007). Using Multivariate Statistics, Fifth Edition. 
+- World Happiness Report. https://worldhappiness.report/
+- World Values Survey. https://www.worldvaluessurvey.org/
 
 
 
