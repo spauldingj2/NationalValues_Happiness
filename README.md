@@ -63,10 +63,12 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook
-
-# Windows: Access the jupyter server by copying and pasting one of the provided URLs in the output or CTRL + click the link in the output.
 ```
-Open **happiness_project.ipynb**.  Execute all cells or select "Run All" at the top of the notebook.
+
+Windows: Access the jupyter server by copying and pasting one of the provided URLs in the output,
+or CTRL + click the link in the output.
+
+Open [happiness_project.ipynb].  Execute all cells or select "Run All" at the top of the notebook.
 
 ### 4️⃣ Deactivate Virtual Environment
 
