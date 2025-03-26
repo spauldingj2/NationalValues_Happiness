@@ -65,7 +65,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Windows: Access the jupyter server by copying and pasting one of the provided URLs in the output,
+**Windows:** Access the jupyter server by copying and pasting one of the provided URLs in the output,
 or CTRL + click the link in the output.
 
 Open the happiness_project.ipynb file.  Execute each cell in order or select "Run All" at the top of the notebook.
