@@ -46,7 +46,11 @@ cd [your_project_folder]
 ### 2️⃣ Create Virtual Environment & Install Dependencies
 
 ```bash
+# Windows
 python -m venv venv
+# Mac/Linux
+python3 -m venv venv
+
 # Windows
 venv\Scripts\activate
 # Mac/Linux
@@ -59,28 +63,26 @@ pip install -r requirements.txt
 
 ```bash
 jupyter notebook
-```
-To access the server: copy and paste one of the provided URLs, or ctrl + click the link.
 
-Open happiness_project.ipynb and execute cells in order.
+# Windows: Access the jupyter server by copying and pasting one of the provided URLs in the output or CTRL + click the link in the output.
+```
+Open **happiness_project.ipynb**.  Execute all cells or select "Run All" at the top of the notebook.
 
 ### 4️⃣ Deactivate Virtual Environment
 
 When finished working in the repo, deactivate the virtual environment.
 
 ```bash
-# For Linux/Mac and GitBash
+# For Mac/Linux and Windows
 deactivate
 ```
 
----
-
 ### 5️⃣ Summary of Virtual Environment Commands
 
-| Command    | Linux/Mac                         | GitBash                           |
+| Command    | Mac/Linux                         | Windows                           |
 | -------    | ---------                         | -------                           |
 | Create     | `python3 -m venv venv`            | `python -m venv venv`             |
-| Activate   | `source venv/bin/activate`        | `source venv/Scripts/activate`    |
+| Activate   | `source venv/bin/activate`        | `venv/Scripts/activate`    |
 | Install    | `pip install -r requirements.txt` | `pip install -r requirements.txt` |
 | Deactivate | `deactivate`                      | `deactivate`                      |
 
