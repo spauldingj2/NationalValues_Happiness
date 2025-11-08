@@ -1,0 +1,13 @@
+﻿Field Name,Datatype,Description,Example Value,Constraints ,Explanation of field
+COUNTRY,string,Unique identifier,Argentina,Primary Key,Country were participants were surveyed by WHR and WVS
+SECVAL,float,Overall secular values,0.105,,"Calculated score of overall secular values comprised of the sub-indices: SKEPTICISM, RELATIVISM, DISBELIEF, DEFIANCE"
+SKEPTICISM,float,Skepticism sub-index,0.105,,"Calculated score representing trust in army, police, courts"
+RELATIVISM,float,Relativism sub-index,0.105,,Calculated score representing thoughts on societal norms
+DISBELIEF,float,Disbelief sub-index,0.105,,Calculated score representing religious importance and practice
+DEFIANCE,float,Defiance sub-index,0.105,,"Calculated score representing respect for authority, national pride, and devoutness"
+EMVAL,float,Emancipative values,0.105,,"Calculated score of emancipative values comprised of the sub-indices: AUTONOMY, EQUALITY, CHOICE, VOICE"
+AUTONOMY,float,Autonomy sub-index,0.105,,"Calculated score representing thoughts on independence, imagination, and obedience"
+EQUALITY,float,Equality sub-index,0.105,,"Calculated score representing gender equality in work, politics, and educaiton"
+CHOICE,float,Choice sub-index,0.105,,"Calculated score representing acceptance of homosexuality, abortion, divorce"
+VOICE,float,Voice sub-index,0.105,,Calculated score representing thoughts on having a voice
+happiness,float,Happiness score,7.99,,Calculated score representing happiness on a scale of 0-10 with 10 being the happiest
